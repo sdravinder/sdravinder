@@ -1,4 +1,4 @@
-(https://sdravinder.io)
+![logo](https://github.com/sdravinder/sdravinder/blob/main/Banner_3.jpg)(https://sdravinder.io)
 <h1 align="center">Hi 👋, I'm Ravinder Singh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
