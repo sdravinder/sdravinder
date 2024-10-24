@@ -28,7 +28,7 @@
 
 <h3 align="center">Support:</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/sdravinderw" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a></p>
-<p align="center"><a href="https://www.buymeacoffee.com/sdravinderw" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" width="150"></a></p>
+<p align="center"><a href="https://ko-fi.com/sdravindersingh" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Buy Me A Coffee" width="150"></a></p>
 <h3 align="center">Github History and Star :-)</h3>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdravinder&show_icons=true&locale=en&layout=compact" alt="sdravinder" /><br></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sdravinder&show_icons=true&locale=en" alt="sdravinder" /></p>
