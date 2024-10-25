@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sdravindersingh1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1phVZkPQw4fjmQii1bxFVd3Q1BVG48sm_](https://drive.google.com/drive/u/0/folders/1phVZkPQw4fjmQii1bxFVd3Q1BVG48sm_)
+- 📄 Know about my experiences [https://drive.google.com/file/d/15cd5fNeGNo6-G3iW2EJvjM7CR-jvDvxl/view?usp=sharing]
 
 
 
